@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"math"
-	// "github.com/ykarqui/golang-practice/go-refresh/strutil"
 )
 
 func main() {
